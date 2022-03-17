@@ -4,5 +4,6 @@ export default function Example(Props){
     When I am not struggling to code I play video games and watch shows or movies, my favorite video game is {Props.game}. 
     <br></br>
     My favorite movies are Coraline, Kubo and the Two Strings, and Shutter Island. The show I am currently watching is {Props.show}.
-    </p>;
+    </p>
+    ;
 }
