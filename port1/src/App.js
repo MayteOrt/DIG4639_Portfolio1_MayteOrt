@@ -1,5 +1,6 @@
 import './App.css';
 import Example from './component/index';
+import Begin from './Begin';
 
 
 function App() {
