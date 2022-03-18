@@ -1,5 +1,5 @@
 import './App.css';
-import Sentence from './component/com';
+import Sentence from './Sentence/Com';
 
 function Begin(){
     return (

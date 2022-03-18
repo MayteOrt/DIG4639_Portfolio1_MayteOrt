@@ -1,8 +1,6 @@
 import './App.css';
 import Example from './Example/index';
-import Begin from './Begin';
-
-
+import Sentence from './Sentence/Com';
 function App() {
   return (
     <div className="App">
