@@ -1,5 +1,5 @@
 import './App.css';
-import Example from './component/index';
+import Example from './Example/index';
 import Begin from './Begin';
 
 
